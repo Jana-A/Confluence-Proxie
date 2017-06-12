@@ -1,3 +1,4 @@
 {
-  "PipelineIIProjects" : ["decipher", "cellular genetics"]
+  "PipelineIIProjects" : ["decipher", "cellular genetics"],
+  "Path": ""
 }
