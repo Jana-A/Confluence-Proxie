@@ -1,1 +1,1 @@
-# LIMS2-Confluence-Proxie
+# Confluence-Proxie
