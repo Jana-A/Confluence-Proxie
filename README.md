@@ -10,10 +10,8 @@ Requirement: Apache server accepting HTTP requests
 
 Apache
 
-  config: /etc/httpd/conf/httpd.conf (root dir: /var/www/html/)
+&nbsp;&nbsp;config: /etc/httpd/conf/httpd.conf (root dir: /var/www/html/)
   
-  commands:
-  
-    sudo apachectl restart
+&nbsp;&nbsp;sudo apachectl restart
     
-    sudo apachectl restart
+&nbsp;&nbsp;sudo apachectl restart
